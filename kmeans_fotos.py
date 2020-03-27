@@ -29,7 +29,7 @@ plt.xlabel('# of clusters')
 plt.ylabel('Inertia')
 plt.xticks(clusters)
 plt.tight_layout()
-plt.savefig('inercia.png)')
+plt.savefig('inercia.png')
 
 
 #se ve un claro cambio de pendiente en 5 clusters
